@@ -71,7 +71,7 @@ ngrok http 5000
 ---
 
 ## 📸 Screenshot
-![Application Screenshot]()
+![Application Screenshot](WhatsApp-Bot/screenshot.png)
 
 ---
 
