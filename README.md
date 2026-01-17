@@ -1,4 +1,4 @@
-# WhatsApp GeeksforGeeks Bot 🤖📱
+# WhatsApp Bot 🤖📱
 
 This project demonstrates how to build a WhatsApp chatbot using Python, Flask, and Twilio’s WhatsApp API.  
 The bot accepts learning-related queries from users and responds with the most relevant GeeksforGeeks articles.
